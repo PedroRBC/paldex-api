@@ -1,14 +1,16 @@
 package pkg
 
 import (
+	_ "embed"
 	"encoding/json"
 	"fmt"
-	"os"
-	"path/filepath"
 )
 
 // Pals is the global slice containing all Pal data
 var Pals []Pal
+
+//go:embed "pals.json"
+var palsJSON []byte
 
 // init automatically runs when the package is imported
 func init() {
@@ -17,26 +19,11 @@ func init() {
 	}
 }
 
-// Initialize loads the pals data from the JSON file
+// Initialize loads the pals data from the embedded JSON
 func Initialize() error {
-	// Get current working directory
-	cwd, err := os.Getwd()
-	if err != nil {
-		return fmt.Errorf("failed to get working directory: %v", err)
-	}
-
-	// Build full path to JSON file
-	jsonPath := filepath.Join(cwd, "api", "pals.json")
-	// Read and parse the JSON file
-	data, err := os.ReadFile(jsonPath)
-	if err != nil {
-		return fmt.Errorf("error reading pals.json: %v", err)
-	}
-
-	err = json.Unmarshal(data, &Pals)
+	err := json.Unmarshal(palsJSON, &Pals)
 	if err != nil {
 		return fmt.Errorf("error parsing pals.json: %v", err)
 	}
-
 	return nil
-} 
+}

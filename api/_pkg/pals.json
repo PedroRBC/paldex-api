@@ -2,30 +2,30 @@
   {
     "id": 1,
     "key": "001",
-    "image": "/public/images/paldeck/001.png",
+    "image": "/images/paldeck/001.png",
     "name": "Lamball",
     "wiki": "https://palworld.fandom.com/wiki/Lamball",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/01/Lamball_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -116,8 +116,8 @@
     "price": 1000,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/001-day.png",
-      "night": "/public/images/maps/001-night.png"
+      "day": "/images/maps/001-day.png",
+      "night": "/images/maps/001-night.png"
     },
     "breeding": {
       "rank": 1470,
@@ -129,35 +129,35 @@
   {
     "id": 2,
     "key": "002",
-    "image": "/public/images/paldeck/002.png",
+    "image": "/images/paldeck/002.png",
     "name": "Cattiva",
     "wiki": "https://palworld.fandom.com/wiki/Cattiva",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/51/Cattiva_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 1
       }
     ],
@@ -248,8 +248,8 @@
     "price": 1000,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/002-day.png",
-      "night": "/public/images/maps/002-night.png"
+      "day": "/images/maps/002-day.png",
+      "night": "/images/maps/002-night.png"
     },
     "breeding": {
       "rank": 1460,
@@ -261,25 +261,25 @@
   {
     "id": 3,
     "key": "003",
-    "image": "/public/images/paldeck/003.png",
+    "image": "/images/paldeck/003.png",
     "name": "Chikipi",
     "wiki": "https://palworld.fandom.com/wiki/Chikipi",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f4/Chikipi_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -370,8 +370,8 @@
     "price": 1000,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/003-day.png",
-      "night": "/public/images/maps/003-night.png"
+      "day": "/images/maps/003-day.png",
+      "night": "/images/maps/003-night.png"
     },
     "breeding": {
       "rank": 1500,
@@ -383,40 +383,40 @@
   {
     "id": 4,
     "key": "004",
-    "image": "/public/images/paldeck/004.png",
+    "image": "/images/paldeck/004.png",
     "name": "Lifmunk",
     "wiki": "https://palworld.fandom.com/wiki/Lifmunk",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/dc/Lifmunk_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 1
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -507,8 +507,8 @@
     "price": 1010,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/004-day.png",
-      "night": "/public/images/maps/004-night.png"
+      "day": "/images/maps/004-day.png",
+      "night": "/images/maps/004-night.png"
     },
     "breeding": {
       "rank": 1430,
@@ -520,20 +520,20 @@
   {
     "id": 5,
     "key": "005",
-    "image": "/public/images/paldeck/005.png",
+    "image": "/images/paldeck/005.png",
     "name": "Foxparks",
     "wiki": "https://palworld.fandom.com/wiki/Foxparks",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d7/Foxparks_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 1
       }
     ],
@@ -624,8 +624,8 @@
     "price": 1040,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/005-day.png",
-      "night": "/public/images/maps/005-night.png"
+      "day": "/images/maps/005-day.png",
+      "night": "/images/maps/005-night.png"
     },
     "breeding": {
       "rank": 1400,
@@ -637,30 +637,30 @@
   {
     "id": 6,
     "key": "006",
-    "image": "/public/images/paldeck/006.png",
+    "image": "/images/paldeck/006.png",
     "name": "Fuack",
     "wiki": "https://palworld.fandom.com/wiki/Fuack",
     "types": [
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fuack_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 1
       }
     ],
@@ -751,8 +751,8 @@
     "price": 1120,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/006-day.png",
-      "night": "/public/images/maps/006-night.png"
+      "day": "/images/maps/006-day.png",
+      "night": "/images/maps/006-night.png"
     },
     "breeding": {
       "rank": 1330,
@@ -764,30 +764,30 @@
   {
     "id": 7,
     "key": "007",
-    "image": "/public/images/paldeck/007.png",
+    "image": "/images/paldeck/007.png",
     "name": "Sparkit",
     "wiki": "https://palworld.fandom.com/wiki/Sparkit",
     "types": [
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/ce/Sparkit_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 1
       }
     ],
@@ -878,8 +878,8 @@
     "price": 1030,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/007-day.png",
-      "night": "/public/images/maps/007-night.png"
+      "day": "/images/maps/007-day.png",
+      "night": "/images/maps/007-night.png"
     },
     "breeding": {
       "rank": 1410,
@@ -891,40 +891,40 @@
   {
     "id": 8,
     "key": "008",
-    "image": "/public/images/paldeck/008.png",
+    "image": "/images/paldeck/008.png",
     "name": "Tanzee",
     "wiki": "https://palworld.fandom.com/wiki/Tanzee",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Tanzee_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -1015,8 +1015,8 @@
     "price": 1280,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/008-day.png",
-      "night": "/public/images/maps/008-night.png"
+      "day": "/images/maps/008-day.png",
+      "night": "/images/maps/008-night.png"
     },
     "breeding": {
       "rank": 1250,
@@ -1028,20 +1028,20 @@
   {
     "id": 9,
     "key": "009",
-    "image": "/public/images/paldeck/009.png",
+    "image": "/images/paldeck/009.png",
     "name": "Rooby",
     "wiki": "https://palworld.fandom.com/wiki/Rooby",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Rooby_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 1
       }
     ],
@@ -1132,8 +1132,8 @@
     "price": 2950,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/009-day.png",
-      "night": "/public/images/maps/009-night.png"
+      "day": "/images/maps/009-day.png",
+      "night": "/images/maps/009-night.png"
     },
     "breeding": {
       "rank": 1155,
@@ -1145,39 +1145,39 @@
   {
     "id": 10,
     "key": "010",
-    "image": "/public/images/paldeck/010.png",
+    "image": "/images/paldeck/010.png",
     "name": "Pengullet",
     "wiki": "https://palworld.fandom.com/wiki/Pengullet",
     "types": [
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       },
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/38/Pengullet_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 1
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 1
       }
     ],
@@ -1268,8 +1268,8 @@
     "price": 1080,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/010-day.png",
-      "night": "/public/images/maps/010-night.png"
+      "day": "/images/maps/010-day.png",
+      "night": "/images/maps/010-night.png"
     },
     "breeding": {
       "rank": 1350,
@@ -1281,44 +1281,44 @@
   {
     "id": 11,
     "key": "011",
-    "image": "/public/images/paldeck/011.png",
+    "image": "/images/paldeck/011.png",
     "name": "Penking",
     "wiki": "https://palworld.fandom.com/wiki/Penking",
     "types": [
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       },
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Penking_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 2
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 2
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 2
       }
     ],
@@ -1409,8 +1409,8 @@
     "price": 5410,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/011-day.png",
-      "night": "/public/images/maps/011-night.png"
+      "day": "/images/maps/011-day.png",
+      "night": "/images/maps/011-night.png"
     },
     "breeding": {
       "rank": 520,
@@ -1422,20 +1422,20 @@
   {
     "id": 12,
     "key": "012",
-    "image": "/public/images/paldeck/012.png",
+    "image": "/images/paldeck/012.png",
     "name": "Jolthog",
     "wiki": "https://palworld.fandom.com/wiki/Jolthog",
     "types": [
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/52/Jolthog_menu.png/",
     "suitability": [
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 1
       }
     ],
@@ -1526,8 +1526,8 @@
     "price": 1060,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/012-day.png",
-      "night": "/public/images/maps/012-night.png"
+      "day": "/images/maps/012-day.png",
+      "night": "/images/maps/012-night.png"
     },
     "breeding": {
       "rank": 1370,
@@ -1539,24 +1539,24 @@
   {
     "id": 13,
     "key": "013",
-    "image": "/public/images/paldeck/013.png",
+    "image": "/images/paldeck/013.png",
     "name": "Gumoss",
     "wiki": "https://palworld.fandom.com/wiki/Gumoss",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       },
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2e/Gumoss_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 1
       }
     ],
@@ -1647,8 +1647,8 @@
     "price": 1310,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/013-day.png",
-      "night": "/public/images/maps/013-night.png"
+      "day": "/images/maps/013-day.png",
+      "night": "/images/maps/013-night.png"
     },
     "breeding": {
       "rank": 1240,
@@ -1660,25 +1660,25 @@
   {
     "id": 14,
     "key": "014",
-    "image": "/public/images/paldeck/014.png",
+    "image": "/images/paldeck/014.png",
     "name": "Vixy",
     "wiki": "https://palworld.fandom.com/wiki/Vixy",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9e/Vixy_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -1769,8 +1769,8 @@
     "price": 1000,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/014-day.png",
-      "night": "/public/images/maps/014-night.png"
+      "day": "/images/maps/014-day.png",
+      "night": "/images/maps/014-night.png"
     },
     "breeding": {
       "rank": 1450,
@@ -1782,20 +1782,20 @@
   {
     "id": 15,
     "key": "015",
-    "image": "/public/images/paldeck/015.png",
+    "image": "/images/paldeck/015.png",
     "name": "Hoocrates",
     "wiki": "https://palworld.fandom.com/wiki/Hoocrates",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ef/Hoocrates_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -1886,7 +1886,7 @@
     "price": 1050,
     "size": "xs",
     "maps": {
-      "night": "/public/images/maps/015-night.png"
+      "night": "/images/maps/015-night.png"
     },
     "breeding": {
       "rank": 1390,
@@ -1898,20 +1898,20 @@
   {
     "id": 16,
     "key": "016",
-    "image": "/public/images/paldeck/016.png",
+    "image": "/images/paldeck/016.png",
     "name": "Teafant",
     "wiki": "https://palworld.fandom.com/wiki/Teafant",
     "types": [
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Teafant_menu.png/",
     "suitability": [
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 1
       }
     ],
@@ -2002,8 +2002,8 @@
     "price": 1000,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/016-day.png",
-      "night": "/public/images/maps/016-night.png"
+      "day": "/images/maps/016-day.png",
+      "night": "/images/maps/016-night.png"
     },
     "breeding": {
       "rank": 1490,
@@ -2015,30 +2015,30 @@
   {
     "id": 17,
     "key": "017",
-    "image": "/public/images/paldeck/017.png",
+    "image": "/images/paldeck/017.png",
     "name": "Depresso",
     "wiki": "https://palworld.fandom.com/wiki/Depresso",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d9/Depresso_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 1
       }
     ],
@@ -2129,7 +2129,7 @@
     "price": 1050,
     "size": "xs",
     "maps": {
-      "night": "/public/images/maps/017-night.png"
+      "night": "/images/maps/017-night.png"
     },
     "breeding": {
       "rank": 1380,
@@ -2141,25 +2141,25 @@
   {
     "id": 18,
     "key": "018",
-    "image": "/public/images/paldeck/018.png",
+    "image": "/images/paldeck/018.png",
     "name": "Cremis",
     "wiki": "https://palworld.fandom.com/wiki/Cremis",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a1/Cremis_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -2250,7 +2250,7 @@
     "price": 1420,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/018-day.png"
+      "day": "/images/maps/018-day.png"
     },
     "breeding": {
       "rank": 1455,
@@ -2262,30 +2262,30 @@
   {
     "id": 19,
     "key": "019",
-    "image": "/public/images/paldeck/019.png",
+    "image": "/images/paldeck/019.png",
     "name": "Daedream",
     "wiki": "https://palworld.fandom.com/wiki/Daedream",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e6/Daedream_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -2376,7 +2376,7 @@
     "price": 1330,
     "size": "xs",
     "maps": {
-      "night": "/public/images/maps/019-night.png"
+      "night": "/images/maps/019-night.png"
     },
     "breeding": {
       "rank": 1230,
@@ -2388,20 +2388,20 @@
   {
     "id": 20,
     "key": "020",
-    "image": "/public/images/paldeck/020.png",
+    "image": "/images/paldeck/020.png",
     "name": "Rushoar",
     "wiki": "https://palworld.fandom.com/wiki/Rushoar",
     "types": [
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d0/Rushoar_menu.png/",
     "suitability": [
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 1
       }
     ],
@@ -2492,8 +2492,8 @@
     "price": 1680,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/020-day.png",
-      "night": "/public/images/maps/020-night.png"
+      "day": "/images/maps/020-day.png",
+      "night": "/images/maps/020-night.png"
     },
     "breeding": {
       "rank": 1130,
@@ -2505,20 +2505,20 @@
   {
     "id": 21,
     "key": "021",
-    "image": "/public/images/paldeck/021.png",
+    "image": "/images/paldeck/021.png",
     "name": "Nox",
     "wiki": "https://palworld.fandom.com/wiki/Nox",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/55/Nox_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -2609,7 +2609,7 @@
     "price": 1480,
     "size": "xs",
     "maps": {
-      "night": "/public/images/maps/021-night.png"
+      "night": "/images/maps/021-night.png"
     },
     "breeding": {
       "rank": 1180,
@@ -2621,30 +2621,30 @@
   {
     "id": 22,
     "key": "022",
-    "image": "/public/images/paldeck/022.png",
+    "image": "/images/paldeck/022.png",
     "name": "Fuddler",
     "wiki": "https://palworld.fandom.com/wiki/Fuddler",
     "types": [
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/64/Fuddler_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 1
       }
     ],
@@ -2735,8 +2735,8 @@
     "price": 1360,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/022-day.png",
-      "night": "/public/images/maps/022-night.png"
+      "day": "/images/maps/022-day.png",
+      "night": "/images/maps/022-night.png"
     },
     "breeding": {
       "rank": 1220,
@@ -2748,25 +2748,25 @@
   {
     "id": 23,
     "key": "023",
-    "image": "/public/images/paldeck/023.png",
+    "image": "/images/paldeck/023.png",
     "name": "Killamari",
     "wiki": "https://palworld.fandom.com/wiki/Killamari",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/80/Killamari_menu.png/",
     "suitability": [
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -2867,20 +2867,20 @@
   {
     "id": 24,
     "key": "024",
-    "image": "/public/images/paldeck/024.png",
+    "image": "/images/paldeck/024.png",
     "name": "Mau",
     "wiki": "https://palworld.fandom.com/wiki/Mau",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/17/Mau_menu.png/",
     "suitability": [
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -2981,25 +2981,25 @@
   {
     "id": 25,
     "key": "025",
-    "image": "/public/images/paldeck/025.png",
+    "image": "/images/paldeck/025.png",
     "name": "Celaray",
     "wiki": "https://palworld.fandom.com/wiki/Celaray",
     "types": [
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/95/Celaray_menu.png/",
     "suitability": [
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 1
       }
     ],
@@ -3090,8 +3090,8 @@
     "price": 2860,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/025-day.png",
-      "night": "/public/images/maps/025-night.png"
+      "day": "/images/maps/025-day.png",
+      "night": "/images/maps/025-night.png"
     },
     "breeding": {
       "rank": 870,
@@ -3103,20 +3103,20 @@
   {
     "id": 26,
     "key": "026",
-    "image": "/public/images/paldeck/026.png",
+    "image": "/images/paldeck/026.png",
     "name": "Direhowl",
     "wiki": "https://palworld.fandom.com/wiki/Direhowl",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/19/Direhowl_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -3207,8 +3207,8 @@
     "price": 1920,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/026-day.png",
-      "night": "/public/images/maps/026-night.png"
+      "day": "/images/maps/026-day.png",
+      "night": "/images/maps/026-night.png"
     },
     "breeding": {
       "rank": 1060,
@@ -3220,20 +3220,20 @@
   {
     "id": 27,
     "key": "027",
-    "image": "/public/images/paldeck/027.png",
+    "image": "/images/paldeck/027.png",
     "name": "Tocotoco",
     "wiki": "https://palworld.fandom.com/wiki/Tocotoco",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Tocotoco_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -3324,8 +3324,8 @@
     "price": 1090,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/027-day.png",
-      "night": "/public/images/maps/027-night.png"
+      "day": "/images/maps/027-day.png",
+      "night": "/images/maps/027-night.png"
     },
     "breeding": {
       "rank": 1340,
@@ -3337,40 +3337,40 @@
   {
     "id": 28,
     "key": "028",
-    "image": "/public/images/paldeck/028.png",
+    "image": "/images/paldeck/028.png",
     "name": "Flopie",
     "wiki": "https://palworld.fandom.com/wiki/Flopie",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Flopie_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -3461,8 +3461,8 @@
     "price": 1220,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/028-day.png",
-      "night": "/public/images/maps/028-night.png"
+      "day": "/images/maps/028-day.png",
+      "night": "/images/maps/028-night.png"
     },
     "breeding": {
       "rank": 1280,
@@ -3474,20 +3474,20 @@
   {
     "id": 29,
     "key": "029",
-    "image": "/public/images/paldeck/029.png",
+    "image": "/images/paldeck/029.png",
     "name": "Mozzarina",
     "wiki": "https://palworld.fandom.com/wiki/Mozzarina",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3a/Mozzarina_menu.png/",
     "suitability": [
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -3578,8 +3578,8 @@
     "price": 2620,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/029-day.png",
-      "night": "/public/images/maps/029-night.png"
+      "day": "/images/maps/029-day.png",
+      "night": "/images/maps/029-night.png"
     },
     "breeding": {
       "rank": 910,
@@ -3591,40 +3591,40 @@
   {
     "id": 30,
     "key": "030",
-    "image": "/public/images/paldeck/030.png",
+    "image": "/images/paldeck/030.png",
     "name": "Bristla",
     "wiki": "https://palworld.fandom.com/wiki/Bristla",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Bristla_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -3715,8 +3715,8 @@
     "price": 1140,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/030-day.png",
-      "night": "/public/images/maps/030-night.png"
+      "day": "/images/maps/030-day.png",
+      "night": "/images/maps/030-night.png"
     },
     "breeding": {
       "rank": 1320,
@@ -3728,30 +3728,30 @@
   {
     "id": 31,
     "key": "031",
-    "image": "/public/images/paldeck/031.png",
+    "image": "/images/paldeck/031.png",
     "name": "Gobfin",
     "wiki": "https://palworld.fandom.com/wiki/Gobfin",
     "types": [
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/ff/Gobfin_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 2
       }
     ],
@@ -3842,8 +3842,8 @@
     "price": 1840,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/031-day.png",
-      "night": "/public/images/maps/031-night.png"
+      "day": "/images/maps/031-day.png",
+      "night": "/images/maps/031-night.png"
     },
     "breeding": {
       "rank": 1090,
@@ -3855,30 +3855,30 @@
   {
     "id": 32,
     "key": "032",
-    "image": "/public/images/paldeck/032.png",
+    "image": "/images/paldeck/032.png",
     "name": "Hangyu",
     "wiki": "https://palworld.fandom.com/wiki/Hangyu",
     "types": [
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/08/Hangyu_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -3969,8 +3969,8 @@
     "price": 1020,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/032-day.png",
-      "night": "/public/images/maps/032-night.png"
+      "day": "/images/maps/032-day.png",
+      "night": "/images/maps/032-night.png"
     },
     "breeding": {
       "rank": 1420,
@@ -3982,35 +3982,35 @@
   {
     "id": 33,
     "key": "033",
-    "image": "/public/images/paldeck/033.png",
+    "image": "/images/paldeck/033.png",
     "name": "Mossanda",
     "wiki": "https://palworld.fandom.com/wiki/Mossanda",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Mossanda_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 2
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -4101,8 +4101,8 @@
     "price": 6200,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/033-day.png",
-      "night": "/public/images/maps/033-night.png"
+      "day": "/images/maps/033-day.png",
+      "night": "/images/maps/033-night.png"
     },
     "breeding": {
       "rank": 430,
@@ -4114,20 +4114,20 @@
   {
     "id": 34,
     "key": "034",
-    "image": "/public/images/paldeck/034.png",
+    "image": "/images/paldeck/034.png",
     "name": "Woolipop",
     "wiki": "https://palworld.fandom.com/wiki/Woolipop",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/fa/Woolipop_menu.png/",
     "suitability": [
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -4218,8 +4218,8 @@
     "price": 1450,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/034-day.png",
-      "night": "/public/images/maps/034-night.png"
+      "day": "/images/maps/034-day.png",
+      "night": "/images/maps/034-night.png"
     },
     "breeding": {
       "rank": 1190,
@@ -4231,25 +4231,25 @@
   {
     "id": 35,
     "key": "035",
-    "image": "/public/images/paldeck/035.png",
+    "image": "/images/paldeck/035.png",
     "name": "Caprity",
     "wiki": "https://palworld.fandom.com/wiki/Caprity",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Caprity_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 2
       },
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -4340,8 +4340,8 @@
     "price": 2510,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/035-day.png",
-      "night": "/public/images/maps/035-night.png"
+      "day": "/images/maps/035-day.png",
+      "night": "/images/maps/035-night.png"
     },
     "breeding": {
       "rank": 930,
@@ -4353,20 +4353,20 @@
   {
     "id": 36,
     "key": "036",
-    "image": "/public/images/paldeck/036.png",
+    "image": "/images/paldeck/036.png",
     "name": "Melpaca",
     "wiki": "https://palworld.fandom.com/wiki/Melpaca",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7f/Melpaca_menu.png/",
     "suitability": [
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -4457,8 +4457,8 @@
     "price": 2740,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/036-day.png",
-      "night": "/public/images/maps/036-night.png"
+      "day": "/images/maps/036-day.png",
+      "night": "/images/maps/036-night.png"
     },
     "breeding": {
       "rank": 890,
@@ -4470,20 +4470,20 @@
   {
     "id": 37,
     "key": "037",
-    "image": "/public/images/paldeck/037.png",
+    "image": "/images/paldeck/037.png",
     "name": "Eikthyrdeer",
     "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Eikthyrdeer_menu.png/",
     "suitability": [
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -4574,8 +4574,8 @@
     "price": 2620,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/037-day.png",
-      "night": "/public/images/maps/037-night.png"
+      "day": "/images/maps/037-day.png",
+      "night": "/images/maps/037-night.png"
     },
     "breeding": {
       "rank": 920,
@@ -4587,20 +4587,20 @@
   {
     "id": 38,
     "key": "038",
-    "image": "/public/images/paldeck/038.png",
+    "image": "/images/paldeck/038.png",
     "name": "Nitewing",
     "wiki": "https://palworld.fandom.com/wiki/Nitewing",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/34/Nitewing_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -4691,8 +4691,8 @@
     "price": 6300,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/038-day.png",
-      "night": "/public/images/maps/038-night.png"
+      "day": "/images/maps/038-day.png",
+      "night": "/images/maps/038-night.png"
     },
     "breeding": {
       "rank": 420,
@@ -4704,30 +4704,30 @@
   {
     "id": 39,
     "key": "039",
-    "image": "/public/images/paldeck/039.png",
+    "image": "/images/paldeck/039.png",
     "name": "Ribbuny",
     "wiki": "https://palworld.fandom.com/wiki/Ribbuny",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7e/Ribbuny_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -4818,8 +4818,8 @@
     "price": 1160,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/039-day.png",
-      "night": "/public/images/maps/039-night.png"
+      "day": "/images/maps/039-day.png",
+      "night": "/images/maps/039-night.png"
     },
     "breeding": {
       "rank": 1310,
@@ -4831,39 +4831,39 @@
   {
     "id": 40,
     "key": "040",
-    "image": "/public/images/paldeck/040.png",
+    "image": "/images/paldeck/040.png",
     "name": "Incineram",
     "wiki": "https://palworld.fandom.com/wiki/Incineram",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       },
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Incineram_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 1
       }
     ],
@@ -4954,8 +4954,8 @@
     "price": 4780,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/040-day.png",
-      "night": "/public/images/maps/040-night.png"
+      "day": "/images/maps/040-day.png",
+      "night": "/images/maps/040-night.png"
     },
     "breeding": {
       "rank": 590,
@@ -4967,25 +4967,25 @@
   {
     "id": 41,
     "key": "041",
-    "image": "/public/images/paldeck/041.png",
+    "image": "/images/paldeck/041.png",
     "name": "Cinnamoth",
     "wiki": "https://palworld.fandom.com/wiki/Cinnamoth",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7e/Cinnamoth_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 2
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 1
       }
     ],
@@ -5076,8 +5076,8 @@
     "price": 5700,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/041-day.png",
-      "night": "/public/images/maps/041-night.png"
+      "day": "/images/maps/041-day.png",
+      "night": "/images/maps/041-night.png"
     },
     "breeding": {
       "rank": 490,
@@ -5089,25 +5089,25 @@
   {
     "id": 42,
     "key": "042",
-    "image": "/public/images/paldeck/042.png",
+    "image": "/images/paldeck/042.png",
     "name": "Arsox",
     "wiki": "https://palworld.fandom.com/wiki/Arsox",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f5/Arsox_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       }
     ],
@@ -5198,8 +5198,8 @@
     "price": 3520,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/042-day.png",
-      "night": "/public/images/maps/042-night.png"
+      "day": "/images/maps/042-day.png",
+      "night": "/images/maps/042-night.png"
     },
     "breeding": {
       "rank": 790,
@@ -5211,30 +5211,30 @@
   {
     "id": 43,
     "key": "043",
-    "image": "/public/images/paldeck/043.png",
+    "image": "/images/paldeck/043.png",
     "name": "Dumud",
     "wiki": "https://palworld.fandom.com/wiki/Dumud",
     "types": [
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Dumud_menu.png/",
     "suitability": [
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 1
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -5268,8 +5268,8 @@
     "price": 4690,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/043-day.png",
-      "night": "/public/images/maps/043-night.png"
+      "day": "/images/maps/043-day.png",
+      "night": "/images/maps/043-night.png"
     },
     "breeding": {
       "rank": 895,
@@ -5281,20 +5281,20 @@
   {
     "id": 44,
     "key": "044",
-    "image": "/public/images/paldeck/044.png",
+    "image": "/images/paldeck/044.png",
     "name": "Cawgnito",
     "wiki": "https://palworld.fandom.com/wiki/Cawgnito",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f6/Cawgnito_menu.png/",
     "suitability": [
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       }
     ],
@@ -5385,7 +5385,7 @@
     "price": 1840,
     "size": "m",
     "maps": {
-      "night": "/public/images/maps/044-night.png"
+      "night": "/images/maps/044-night.png"
     },
     "breeding": {
       "rank": 1080,
@@ -5397,30 +5397,30 @@
   {
     "id": 45,
     "key": "045",
-    "image": "/public/images/paldeck/045.png",
+    "image": "/images/paldeck/045.png",
     "name": "Leezpunk",
     "wiki": "https://palworld.fandom.com/wiki/Leezpunk",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Leezpunk_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -5511,8 +5511,8 @@
     "price": 1720,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/045-day.png",
-      "night": "/public/images/maps/045-night.png"
+      "day": "/images/maps/045-day.png",
+      "night": "/images/maps/045-night.png"
     },
     "breeding": {
       "rank": 1120,
@@ -5524,20 +5524,20 @@
   {
     "id": 46,
     "key": "046",
-    "image": "/public/images/paldeck/046.png",
+    "image": "/images/paldeck/046.png",
     "name": "Loupmoon",
     "wiki": "https://palworld.fandom.com/wiki/Loupmoon",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/00/Loupmoon_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       }
     ],
@@ -5628,7 +5628,7 @@
     "price": 2400,
     "size": "m",
     "maps": {
-      "night": "/public/images/maps/046-night.png"
+      "night": "/images/maps/046-night.png"
     },
     "breeding": {
       "rank": 950,
@@ -5640,20 +5640,20 @@
   {
     "id": 47,
     "key": "047",
-    "image": "/public/images/paldeck/047.png",
+    "image": "/images/paldeck/047.png",
     "name": "Galeclaw",
     "wiki": "https://palworld.fandom.com/wiki/Galeclaw",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/08/Galeclaw_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -5744,8 +5744,8 @@
     "price": 2010,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/047-day.png",
-      "night": "/public/images/maps/047-night.png"
+      "day": "/images/maps/047-day.png",
+      "night": "/images/maps/047-night.png"
     },
     "breeding": {
       "rank": 1030,
@@ -5757,45 +5757,45 @@
   {
     "id": 48,
     "key": "048",
-    "image": "/public/images/paldeck/048.png",
+    "image": "/images/paldeck/048.png",
     "name": "Robinquill",
     "wiki": "https://palworld.fandom.com/wiki/Robinquill",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/bb/Robinquill_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -5886,8 +5886,8 @@
     "price": 2050,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/048-day.png",
-      "night": "/public/images/maps/048-night.png"
+      "day": "/images/maps/048-day.png",
+      "night": "/images/maps/048-night.png"
     },
     "breeding": {
       "rank": 1020,
@@ -5899,30 +5899,30 @@
   {
     "id": 49,
     "key": "049",
-    "image": "/public/images/paldeck/049.png",
+    "image": "/images/paldeck/049.png",
     "name": "Gorirat",
     "wiki": "https://palworld.fandom.com/wiki/Gorirat",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Gorirat_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -6013,8 +6013,8 @@
     "price": 2010,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/049-day.png",
-      "night": "/public/images/maps/049-night.png"
+      "day": "/images/maps/049-day.png",
+      "night": "/images/maps/049-night.png"
     },
     "breeding": {
       "rank": 1040,
@@ -6026,50 +6026,50 @@
   {
     "id": 50,
     "key": "050",
-    "image": "/public/images/paldeck/050.png",
+    "image": "/images/paldeck/050.png",
     "name": "Beegarde",
     "wiki": "https://palworld.fandom.com/wiki/Beegarde",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7b/Beegarde_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -6160,8 +6160,8 @@
     "price": 1880,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/050-day.png",
-      "night": "/public/images/maps/050-night.png"
+      "day": "/images/maps/050-day.png",
+      "night": "/images/maps/050-night.png"
     },
     "breeding": {
       "rank": 1070,
@@ -6173,40 +6173,40 @@
   {
     "id": 51,
     "key": "051",
-    "image": "/public/images/paldeck/051.png",
+    "image": "/images/paldeck/051.png",
     "name": "Elizabee",
     "wiki": "https://palworld.fandom.com/wiki/Elizabee",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Elizabee_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 2
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -6297,8 +6297,8 @@
     "price": 6830,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/051-day.png",
-      "night": "/public/images/maps/051-night.png"
+      "day": "/images/maps/051-day.png",
+      "night": "/images/maps/051-night.png"
     },
     "breeding": {
       "rank": 330,
@@ -6310,20 +6310,20 @@
   {
     "id": 52,
     "key": "052",
-    "image": "/public/images/paldeck/052.png",
+    "image": "/images/paldeck/052.png",
     "name": "Grintale",
     "wiki": "https://palworld.fandom.com/wiki/Grintale",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c3/Grintale_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -6414,8 +6414,8 @@
     "price": 5510,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/052-day.png",
-      "night": "/public/images/maps/052-night.png"
+      "day": "/images/maps/052-day.png",
+      "night": "/images/maps/052-night.png"
     },
     "breeding": {
       "rank": 510,
@@ -6427,25 +6427,25 @@
   {
     "id": 53,
     "key": "053",
-    "image": "/public/images/paldeck/053.png",
+    "image": "/images/paldeck/053.png",
     "name": "Swee",
     "wiki": "https://palworld.fandom.com/wiki/Swee",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Swee_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 1
       }
     ],
@@ -6536,8 +6536,8 @@
     "price": 1180,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/053-day.png",
-      "night": "/public/images/maps/053-night.png"
+      "day": "/images/maps/053-day.png",
+      "night": "/images/maps/053-night.png"
     },
     "breeding": {
       "rank": 1300,
@@ -6549,25 +6549,25 @@
   {
     "id": 54,
     "key": "054",
-    "image": "/public/images/paldeck/054.png",
+    "image": "/images/paldeck/054.png",
     "name": "Sweepa",
     "wiki": "https://palworld.fandom.com/wiki/Sweepa",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f3/Sweepa_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 2
       }
     ],
@@ -6658,8 +6658,8 @@
     "price": 6400,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/054-day.png",
-      "night": "/public/images/maps/054-night.png"
+      "day": "/images/maps/054-day.png",
+      "night": "/images/maps/054-night.png"
     },
     "breeding": {
       "rank": 410,
@@ -6671,29 +6671,29 @@
   {
     "id": 55,
     "key": "055",
-    "image": "/public/images/paldeck/055.png",
+    "image": "/images/paldeck/055.png",
     "name": "Chillet",
     "wiki": "https://palworld.fandom.com/wiki/Chillet",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       },
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Chillet_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 1
       }
     ],
@@ -6784,8 +6784,8 @@
     "price": 3450,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/055-day.png",
-      "night": "/public/images/maps/055-night.png"
+      "day": "/images/maps/055-day.png",
+      "night": "/images/maps/055-night.png"
     },
     "breeding": {
       "rank": 800,
@@ -6797,25 +6797,25 @@
   {
     "id": 56,
     "key": "056",
-    "image": "/public/images/paldeck/056.png",
+    "image": "/images/paldeck/056.png",
     "name": "Univolt",
     "wiki": "https://palworld.fandom.com/wiki/Univolt",
     "types": [
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0e/Univolt_menu.png/",
     "suitability": [
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       }
     ],
@@ -6906,8 +6906,8 @@
     "price": 4280,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/056-day.png",
-      "night": "/public/images/maps/056-night.png"
+      "day": "/images/maps/056-day.png",
+      "night": "/images/maps/056-night.png"
     },
     "breeding": {
       "rank": 680,
@@ -6919,20 +6919,20 @@
   {
     "id": 57,
     "key": "057",
-    "image": "/public/images/paldeck/057.png",
+    "image": "/images/paldeck/057.png",
     "name": "Foxcicle",
     "wiki": "https://palworld.fandom.com/wiki/Foxcicle",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Foxcicle_menu.png/",
     "suitability": [
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 2
       }
     ],
@@ -7023,8 +7023,8 @@
     "price": 3730,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/057-day.png",
-      "night": "/public/images/maps/057-night.png"
+      "day": "/images/maps/057-day.png",
+      "night": "/images/maps/057-night.png"
     },
     "breeding": {
       "rank": 760,
@@ -7036,25 +7036,25 @@
   {
     "id": 58,
     "key": "058",
-    "image": "/public/images/paldeck/058.png",
+    "image": "/images/paldeck/058.png",
     "name": "Pyrin",
     "wiki": "https://palworld.fandom.com/wiki/Pyrin",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e6/Pyrin_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       }
     ],
@@ -7145,8 +7145,8 @@
     "price": 6720,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/058-day.png",
-      "night": "/public/images/maps/058-night.png"
+      "day": "/images/maps/058-day.png",
+      "night": "/images/maps/058-night.png"
     },
     "breeding": {
       "rank": 360,
@@ -7158,25 +7158,25 @@
   {
     "id": 59,
     "key": "059",
-    "image": "/public/images/paldeck/059.png",
+    "image": "/images/paldeck/059.png",
     "name": "Reindrix",
     "wiki": "https://palworld.fandom.com/wiki/Reindrix",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c1/Reindrix_menu.png/",
     "suitability": [
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 2
       }
     ],
@@ -7267,8 +7267,8 @@
     "price": 2800,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/059-day.png",
-      "night": "/public/images/maps/059-night.png"
+      "day": "/images/maps/059-day.png",
+      "night": "/images/maps/059-night.png"
     },
     "breeding": {
       "rank": 880,
@@ -7280,20 +7280,20 @@
   {
     "id": 60,
     "key": "060",
-    "image": "/public/images/paldeck/060.png",
+    "image": "/images/paldeck/060.png",
     "name": "Rayhound",
     "wiki": "https://palworld.fandom.com/wiki/Rayhound",
     "types": [
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3f/Rayhound_menu.png/",
     "suitability": [
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 2
       }
     ],
@@ -7384,8 +7384,8 @@
     "price": 3880,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/060-day.png",
-      "night": "/public/images/maps/060-night.png"
+      "day": "/images/maps/060-day.png",
+      "night": "/images/maps/060-night.png"
     },
     "breeding": {
       "rank": 740,
@@ -7397,20 +7397,20 @@
   {
     "id": 61,
     "key": "061",
-    "image": "/public/images/paldeck/061.png",
+    "image": "/images/paldeck/061.png",
     "name": "Kitsun",
     "wiki": "https://palworld.fandom.com/wiki/Kitsun",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/6b/Kitsun_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 2
       }
     ],
@@ -7501,7 +7501,7 @@
     "price": 3170,
     "size": "m",
     "maps": {
-      "night": "/public/images/maps/061-night.png"
+      "night": "/images/maps/061-night.png"
     },
     "breeding": {
       "rank": 830,
@@ -7513,30 +7513,30 @@
   {
     "id": 62,
     "key": "062",
-    "image": "/public/images/paldeck/062.png",
+    "image": "/images/paldeck/062.png",
     "name": "Dazzi",
     "wiki": "https://palworld.fandom.com/wiki/Dazzi",
     "types": [
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b0/Dazzi_menu.png/",
     "suitability": [
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -7627,8 +7627,8 @@
     "price": 1390,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/062-day.png",
-      "night": "/public/images/maps/062-night.png"
+      "day": "/images/maps/062-day.png",
+      "night": "/images/maps/062-night.png"
     },
     "breeding": {
       "rank": 1210,
@@ -7640,30 +7640,30 @@
   {
     "id": 63,
     "key": "063",
-    "image": "/public/images/paldeck/063.png",
+    "image": "/images/paldeck/063.png",
     "name": "Lunaris",
     "wiki": "https://palworld.fandom.com/wiki/Lunaris",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/38/Lunaris_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 3
       }
     ],
@@ -7764,29 +7764,29 @@
   {
     "id": 64,
     "key": "064",
-    "image": "/public/images/paldeck/064.png",
+    "image": "/images/paldeck/064.png",
     "name": "Dinossom",
     "wiki": "https://palworld.fandom.com/wiki/Dinossom",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       },
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b7/Dinossom_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -7877,8 +7877,8 @@
     "price": 3240,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/064-day.png",
-      "night": "/public/images/maps/064-night.png"
+      "day": "/images/maps/064-day.png",
+      "night": "/images/maps/064-night.png"
     },
     "breeding": {
       "rank": 820,
@@ -7890,20 +7890,20 @@
   {
     "id": 65,
     "key": "065",
-    "image": "/public/images/paldeck/065.png",
+    "image": "/images/paldeck/065.png",
     "name": "Surfent",
     "wiki": "https://palworld.fandom.com/wiki/Surfent",
     "types": [
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/1d/Surfent_menu.png/",
     "suitability": [
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 2
       }
     ],
@@ -7994,8 +7994,8 @@
     "price": 5050,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/065-day.png",
-      "night": "/public/images/maps/065-night.png"
+      "day": "/images/maps/065-day.png",
+      "night": "/images/maps/065-night.png"
     },
     "breeding": {
       "rank": 560,
@@ -8007,25 +8007,25 @@
   {
     "id": 66,
     "key": "066",
-    "image": "/public/images/paldeck/066.png",
+    "image": "/images/paldeck/066.png",
     "name": "Maraith",
     "wiki": "https://palworld.fandom.com/wiki/Maraith",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Maraith_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 1
       }
     ],
@@ -8116,7 +8116,7 @@
     "price": 1570,
     "size": "m",
     "maps": {
-      "night": "/public/images/maps/066-night.png"
+      "night": "/images/maps/066-night.png"
     },
     "breeding": {
       "rank": 1150,
@@ -8128,20 +8128,20 @@
   {
     "id": 67,
     "key": "067",
-    "image": "/public/images/paldeck/067.png",
+    "image": "/images/paldeck/067.png",
     "name": "Digtoise",
     "wiki": "https://palworld.fandom.com/wiki/Digtoise",
     "types": [
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Digtoise_menu.png/",
     "suitability": [
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 3
       }
     ],
@@ -8232,8 +8232,8 @@
     "price": 2980,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/067-day.png",
-      "night": "/public/images/maps/067-night.png"
+      "day": "/images/maps/067-day.png",
+      "night": "/images/maps/067-night.png"
     },
     "breeding": {
       "rank": 850,
@@ -8245,30 +8245,30 @@
   {
     "id": 68,
     "key": "068",
-    "image": "/public/images/paldeck/068.png",
+    "image": "/images/paldeck/068.png",
     "name": "Tombat",
     "wiki": "https://palworld.fandom.com/wiki/Tombat",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f2/Tombat_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -8359,7 +8359,7 @@
     "price": 3810,
     "size": "m",
     "maps": {
-      "night": "/public/images/maps/068-night.png"
+      "night": "/images/maps/068-night.png"
     },
     "breeding": {
       "rank": 750,
@@ -8371,35 +8371,35 @@
   {
     "id": 69,
     "key": "069",
-    "image": "/public/images/paldeck/069.png",
+    "image": "/images/paldeck/069.png",
     "name": "Lovander",
     "wiki": "https://palworld.fandom.com/wiki/Lovander",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c8/Lovander_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 1
       }
     ],
@@ -8490,7 +8490,7 @@
     "price": 2450,
     "size": "l",
     "maps": {
-      "night": "/public/images/maps/069-night.png"
+      "night": "/images/maps/069-night.png"
     },
     "breeding": {
       "rank": 940,
@@ -8502,35 +8502,35 @@
   {
     "id": 70,
     "key": "070",
-    "image": "/public/images/paldeck/070.png",
+    "image": "/images/paldeck/070.png",
     "name": "Flambelle",
     "wiki": "https://palworld.fandom.com/wiki/Flambelle",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/20/Flambelle_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -8621,8 +8621,8 @@
     "price": 2500,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/070-day.png",
-      "night": "/public/images/maps/070-night.png"
+      "day": "/images/maps/070-day.png",
+      "night": "/images/maps/070-night.png"
     },
     "breeding": {
       "rank": 1405,
@@ -8634,29 +8634,29 @@
   {
     "id": 71,
     "key": "071",
-    "image": "/public/images/paldeck/071.png",
+    "image": "/images/paldeck/071.png",
     "name": "Vanwyrm",
     "wiki": "https://palworld.fandom.com/wiki/Vanwyrm",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       },
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ea/Vanwyrm_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -8747,8 +8747,8 @@
     "price": 4360,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/071-day.png",
-      "night": "/public/images/maps/071-night.png"
+      "day": "/images/maps/071-day.png",
+      "night": "/images/maps/071-night.png"
     },
     "breeding": {
       "rank": 660,
@@ -8760,40 +8760,40 @@
   {
     "id": 72,
     "key": "072",
-    "image": "/public/images/paldeck/072.png",
+    "image": "/images/paldeck/072.png",
     "name": "Bushi",
     "wiki": "https://palworld.fandom.com/wiki/Bushi",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/73/Bushi_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 3
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -8884,8 +8884,8 @@
     "price": 4520,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/072-day.png",
-      "night": "/public/images/maps/072-night.png"
+      "day": "/images/maps/072-day.png",
+      "night": "/images/maps/072-night.png"
     },
     "breeding": {
       "rank": 640,
@@ -8897,30 +8897,30 @@
   {
     "id": 73,
     "key": "073",
-    "image": "/public/images/paldeck/073.png",
+    "image": "/images/paldeck/073.png",
     "name": "Beakon",
     "wiki": "https://palworld.fandom.com/wiki/Beakon",
     "types": [
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Beakon_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -9011,8 +9011,8 @@
     "price": 7490,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/073-day.png",
-      "night": "/public/images/maps/073-night.png"
+      "day": "/images/maps/073-day.png",
+      "night": "/images/maps/073-night.png"
     },
     "breeding": {
       "rank": 220,
@@ -9024,25 +9024,25 @@
   {
     "id": 74,
     "key": "074",
-    "image": "/public/images/paldeck/074.png",
+    "image": "/images/paldeck/074.png",
     "name": "Ragnahawk",
     "wiki": "https://palworld.fandom.com/wiki/Ragnahawk",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/dd/Ragnahawk_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -9133,8 +9133,8 @@
     "price": 6720,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/074-day.png",
-      "night": "/public/images/maps/074-night.png"
+      "day": "/images/maps/074-day.png",
+      "night": "/images/maps/074-night.png"
     },
     "breeding": {
       "rank": 380,
@@ -9146,30 +9146,30 @@
   {
     "id": 75,
     "key": "075",
-    "image": "/public/images/paldeck/075.png",
+    "image": "/images/paldeck/075.png",
     "name": "Katress",
     "wiki": "https://palworld.fandom.com/wiki/Katress",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9e/Katress_menu.png/",
     "suitability": [
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -9260,7 +9260,7 @@
     "price": 4120,
     "size": "m",
     "maps": {
-      "night": "/public/images/maps/075-night.png"
+      "night": "/images/maps/075-night.png"
     },
     "breeding": {
       "rank": 700,
@@ -9272,30 +9272,30 @@
   {
     "id": 76,
     "key": "076",
-    "image": "/public/images/paldeck/076.png",
+    "image": "/images/paldeck/076.png",
     "name": "Wixen",
     "wiki": "https://palworld.fandom.com/wiki/Wixen",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/85/Wixen_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 3
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -9386,8 +9386,8 @@
     "price": 1540,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/076-day.png",
-      "night": "/public/images/maps/076-night.png"
+      "day": "/images/maps/076-day.png",
+      "night": "/images/maps/076-night.png"
     },
     "breeding": {
       "rank": 1160,
@@ -9399,40 +9399,40 @@
   {
     "id": 77,
     "key": "077",
-    "image": "/public/images/paldeck/077.png",
+    "image": "/images/paldeck/077.png",
     "name": "Verdash",
     "wiki": "https://palworld.fandom.com/wiki/Verdash",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/43/Verdash_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 3
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 3
       },
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -9523,8 +9523,8 @@
     "price": 2200,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/077-day.png",
-      "night": "/public/images/maps/077-night.png"
+      "day": "/images/maps/077-day.png",
+      "night": "/images/maps/077-night.png"
     },
     "breeding": {
       "rank": 990,
@@ -9536,40 +9536,40 @@
   {
     "id": 78,
     "key": "078",
-    "image": "/public/images/paldeck/078.png",
+    "image": "/images/paldeck/078.png",
     "name": "Vaelet",
     "wiki": "https://palworld.fandom.com/wiki/Vaelet",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/24/Vaelet_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 3
       },
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -9660,8 +9660,8 @@
     "price": 1960,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/078-day.png",
-      "night": "/public/images/maps/078-night.png"
+      "day": "/images/maps/078-day.png",
+      "night": "/images/maps/078-night.png"
     },
     "breeding": {
       "rank": 1050,
@@ -9673,30 +9673,30 @@
   {
     "id": 79,
     "key": "079",
-    "image": "/public/images/paldeck/079.png",
+    "image": "/images/paldeck/079.png",
     "name": "Sibelyx",
     "wiki": "https://palworld.fandom.com/wiki/Sibelyx",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/66/Sibelyx_menu.png/",
     "suitability": [
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 2
       },
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -9787,8 +9787,8 @@
     "price": 5900,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/079-day.png",
-      "night": "/public/images/maps/079-night.png"
+      "day": "/images/maps/079-day.png",
+      "night": "/images/maps/079-night.png"
     },
     "breeding": {
       "rank": 450,
@@ -9800,20 +9800,20 @@
   {
     "id": 80,
     "key": "080",
-    "image": "/public/images/paldeck/080.png",
+    "image": "/images/paldeck/080.png",
     "name": "Elphidran",
     "wiki": "https://palworld.fandom.com/wiki/Elphidran",
     "types": [
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a6/Elphidran_menu.png/",
     "suitability": [
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -9904,8 +9904,8 @@
     "price": 5230,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/080-day.png",
-      "night": "/public/images/maps/080-night.png"
+      "day": "/images/maps/080-day.png",
+      "night": "/images/maps/080-night.png"
     },
     "breeding": {
       "rank": 540,
@@ -9917,20 +9917,20 @@
   {
     "id": 81,
     "key": "081",
-    "image": "/public/images/paldeck/081.png",
+    "image": "/images/paldeck/081.png",
     "name": "Kelpsea",
     "wiki": "https://palworld.fandom.com/wiki/Kelpsea",
     "types": [
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/1b/Kelpsea_menu.png/",
     "suitability": [
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 1
       }
     ],
@@ -10021,8 +10021,8 @@
     "price": 1260,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/081-day.png",
-      "night": "/public/images/maps/081-night.png"
+      "day": "/images/maps/081-day.png",
+      "night": "/images/maps/081-night.png"
     },
     "breeding": {
       "rank": 1260,
@@ -10034,24 +10034,24 @@
   {
     "id": 82,
     "key": "082",
-    "image": "/public/images/paldeck/082.png",
+    "image": "/images/paldeck/082.png",
     "name": "Azurobe",
     "wiki": "https://palworld.fandom.com/wiki/Azurobe",
     "types": [
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       },
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Azurobe_menu.png/",
     "suitability": [
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 3
       }
     ],
@@ -10142,8 +10142,8 @@
     "price": 5600,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/082-day.png",
-      "night": "/public/images/maps/082-night.png"
+      "day": "/images/maps/082-day.png",
+      "night": "/images/maps/082-night.png"
     },
     "breeding": {
       "rank": 500,
@@ -10155,30 +10155,30 @@
   {
     "id": 83,
     "key": "083",
-    "image": "/public/images/paldeck/083.png",
+    "image": "/images/paldeck/083.png",
     "name": "Cryolinx",
     "wiki": "https://palworld.fandom.com/wiki/Cryolinx",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9d/Cryolinx_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 3
       }
     ],
@@ -10269,8 +10269,8 @@
     "price": 8440,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/083-day.png",
-      "night": "/public/images/maps/083-night.png"
+      "day": "/images/maps/083-day.png",
+      "night": "/images/maps/083-night.png"
     },
     "breeding": {
       "rank": 130,
@@ -10282,25 +10282,25 @@
   {
     "id": 84,
     "key": "084",
-    "image": "/public/images/paldeck/084.png",
+    "image": "/images/paldeck/084.png",
     "name": "Blazehowl",
     "wiki": "https://palworld.fandom.com/wiki/Blazehowl",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/33/Blazehowl_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -10391,8 +10391,8 @@
     "price": 4040,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/084-day.png",
-      "night": "/public/images/maps/084-night.png"
+      "day": "/images/maps/084-day.png",
+      "night": "/images/maps/084-night.png"
     },
     "breeding": {
       "rank": 710,
@@ -10404,29 +10404,29 @@
   {
     "id": 85,
     "key": "085",
-    "image": "/public/images/paldeck/085.png",
+    "image": "/images/paldeck/085.png",
     "name": "Relaxaurus",
     "wiki": "https://palworld.fandom.com/wiki/Relaxaurus",
     "types": [
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       },
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/01/Relaxaurus_menu.png/",
     "suitability": [
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -10517,8 +10517,8 @@
     "price": 10240,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/085-day.png",
-      "night": "/public/images/maps/085-night.png"
+      "day": "/images/maps/085-day.png",
+      "night": "/images/maps/085-night.png"
     },
     "breeding": {
       "rank": 280,
@@ -10530,20 +10530,20 @@
   {
     "id": 86,
     "key": "086",
-    "image": "/public/images/paldeck/086.png",
+    "image": "/images/paldeck/086.png",
     "name": "Broncherry",
     "wiki": "https://palworld.fandom.com/wiki/Broncherry",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/bd/Broncherry_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 3
       }
     ],
@@ -10634,8 +10634,8 @@
     "price": 2920,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/086-day.png",
-      "night": "/public/images/maps/086-night.png"
+      "day": "/images/maps/086-day.png",
+      "night": "/images/maps/086-night.png"
     },
     "breeding": {
       "rank": 860,
@@ -10647,40 +10647,40 @@
   {
     "id": 87,
     "key": "087",
-    "image": "/public/images/paldeck/087.png",
+    "image": "/images/paldeck/087.png",
     "name": "Petallia",
     "wiki": "https://palworld.fandom.com/wiki/Petallia",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/28/Petallia_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 3
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -10771,8 +10771,8 @@
     "price": 3590,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/087-day.png",
-      "night": "/public/images/maps/087-night.png"
+      "day": "/images/maps/087-day.png",
+      "night": "/images/maps/087-night.png"
     },
     "breeding": {
       "rank": 780,
@@ -10784,29 +10784,29 @@
   {
     "id": 88,
     "key": "088",
-    "image": "/public/images/paldeck/088.png",
+    "image": "/images/paldeck/088.png",
     "name": "Reptyro",
     "wiki": "https://palworld.fandom.com/wiki/Reptyro",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       },
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d0/Reptyro_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 3
       }
     ],
@@ -10897,8 +10897,8 @@
     "price": 6940,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/088-day.png",
-      "night": "/public/images/maps/088-night.png"
+      "day": "/images/maps/088-day.png",
+      "night": "/images/maps/088-night.png"
     },
     "breeding": {
       "rank": 320,
@@ -10910,20 +10910,20 @@
   {
     "id": 89,
     "key": "089",
-    "image": "/public/images/paldeck/089.png",
+    "image": "/images/paldeck/089.png",
     "name": "Kingpaca",
     "wiki": "https://palworld.fandom.com/wiki/Kingpaca",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9d/Kingpaca_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -11014,8 +11014,8 @@
     "price": 5800,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/089-day.png",
-      "night": "/public/images/maps/089-night.png"
+      "day": "/images/maps/089-day.png",
+      "night": "/images/maps/089-night.png"
     },
     "breeding": {
       "rank": 470,
@@ -11027,30 +11027,30 @@
   {
     "id": 90,
     "key": "090",
-    "image": "/public/images/paldeck/090.png",
+    "image": "/images/paldeck/090.png",
     "name": "Mammorest",
     "wiki": "https://palworld.fandom.com/wiki/Mammorest",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Mammorest_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 2
       }
     ],
@@ -11141,8 +11141,8 @@
     "price": 9450,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/090-day.png",
-      "night": "/public/images/maps/090-night.png"
+      "day": "/images/maps/090-day.png",
+      "night": "/images/maps/090-night.png"
     },
     "breeding": {
       "rank": 300,
@@ -11154,35 +11154,35 @@
   {
     "id": 91,
     "key": "091",
-    "image": "/public/images/paldeck/091.png",
+    "image": "/images/paldeck/091.png",
     "name": "Wumpo",
     "wiki": "https://palworld.fandom.com/wiki/Wumpo",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0e/Wumpo_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 3
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 4
       }
     ],
@@ -11273,8 +11273,8 @@
     "price": 5900,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/091-day.png",
-      "night": "/public/images/maps/091-night.png"
+      "day": "/images/maps/091-day.png",
+      "night": "/images/maps/091-night.png"
     },
     "breeding": {
       "rank": 460,
@@ -11286,39 +11286,39 @@
   {
     "id": 92,
     "key": "092",
-    "image": "/public/images/paldeck/092.png",
+    "image": "/images/paldeck/092.png",
     "name": "Warsect",
     "wiki": "https://palworld.fandom.com/wiki/Warsect",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       },
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Warsect_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 3
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -11409,8 +11409,8 @@
     "price": 6830,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/092-day.png",
-      "night": "/public/images/maps/092-night.png"
+      "day": "/images/maps/092-day.png",
+      "night": "/images/maps/092-night.png"
     },
     "breeding": {
       "rank": 340,
@@ -11422,20 +11422,20 @@
   {
     "id": 93,
     "key": "093",
-    "image": "/public/images/paldeck/093.png",
+    "image": "/images/paldeck/093.png",
     "name": "Fenglope",
     "wiki": "https://palworld.fandom.com/wiki/Fenglope",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/68/Fenglope_menu.png/",
     "suitability": [
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -11526,8 +11526,8 @@
     "price": 2250,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/093-day.png",
-      "night": "/public/images/maps/093-night.png"
+      "day": "/images/maps/093-day.png",
+      "night": "/images/maps/093-night.png"
     },
     "breeding": {
       "rank": 980,
@@ -11539,20 +11539,20 @@
   {
     "id": 94,
     "key": "094",
-    "image": "/public/images/paldeck/094.png",
+    "image": "/images/paldeck/094.png",
     "name": "Felbat",
     "wiki": "https://palworld.fandom.com/wiki/Felbat",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7d/Felbat_menu.png/",
     "suitability": [
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 3
       }
     ],
@@ -11653,35 +11653,35 @@
   {
     "id": 95,
     "key": "095",
-    "image": "/public/images/paldeck/095.png",
+    "image": "/images/paldeck/095.png",
     "name": "Quivern",
     "wiki": "https://palworld.fandom.com/wiki/Quivern",
     "types": [
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d9/Quivern_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 2
       }
     ],
@@ -11772,8 +11772,8 @@
     "price": 6830,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/095-day.png",
-      "night": "/public/images/maps/095-night.png"
+      "day": "/images/maps/095-day.png",
+      "night": "/images/maps/095-night.png"
     },
     "breeding": {
       "rank": 350,
@@ -11785,25 +11785,25 @@
   {
     "id": 96,
     "key": "096",
-    "image": "/public/images/paldeck/096.png",
+    "image": "/images/paldeck/096.png",
     "name": "Blazamut",
     "wiki": "https://palworld.fandom.com/wiki/Blazamut",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ee/Blazamut_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 4
       }
     ],
@@ -11894,8 +11894,8 @@
     "price": 10520,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/096-day.png",
-      "night": "/public/images/maps/096-night.png"
+      "day": "/images/maps/096-day.png",
+      "night": "/images/maps/096-night.png"
     },
     "breeding": {
       "rank": 10,
@@ -11907,20 +11907,20 @@
   {
     "id": 97,
     "key": "097",
-    "image": "/public/images/paldeck/097.png",
+    "image": "/images/paldeck/097.png",
     "name": "Helzephyr",
     "wiki": "https://palworld.fandom.com/wiki/Helzephyr",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3c/Helzephyr_menu.png/",
     "suitability": [
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -12011,7 +12011,7 @@
     "price": 7840,
     "size": "l",
     "maps": {
-      "night": "/public/images/maps/097-night.png"
+      "night": "/images/maps/097-night.png"
     },
     "breeding": {
       "rank": 190,
@@ -12023,29 +12023,29 @@
   {
     "id": 98,
     "key": "098",
-    "image": "/public/images/paldeck/098.png",
+    "image": "/images/paldeck/098.png",
     "name": "Astegon",
     "wiki": "https://palworld.fandom.com/wiki/Astegon",
     "types": [
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       },
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d4/Astegon_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 4
       }
     ],
@@ -12136,8 +12136,8 @@
     "price": 8200,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/098-day.png",
-      "night": "/public/images/maps/098-night.png"
+      "day": "/images/maps/098-day.png",
+      "night": "/images/maps/098-night.png"
     },
     "breeding": {
       "rank": 150,
@@ -12149,29 +12149,29 @@
   {
     "id": 99,
     "key": "099",
-    "image": "/public/images/paldeck/099.png",
+    "image": "/images/paldeck/099.png",
     "name": "Menasting",
     "wiki": "https://palworld.fandom.com/wiki/Menasting",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       },
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/57/Menasting_menu.png/",
     "suitability": [
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 3
       }
     ],
@@ -12262,8 +12262,8 @@
     "price": 7050,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/099-day.png",
-      "night": "/public/images/maps/099-night.png"
+      "day": "/images/maps/099-day.png",
+      "night": "/images/maps/099-night.png"
     },
     "breeding": {
       "rank": 260,
@@ -12275,30 +12275,30 @@
   {
     "id": 100,
     "key": "100",
-    "image": "/public/images/paldeck/100.png",
+    "image": "/images/paldeck/100.png",
     "name": "Anubis",
     "wiki": "https://palworld.fandom.com/wiki/Anubis",
     "types": [
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Anubis_menu.png/",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 4
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 3
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -12399,24 +12399,24 @@
   {
     "id": 101,
     "key": "101",
-    "image": "/public/images/paldeck/101.png",
+    "image": "/images/paldeck/101.png",
     "name": "Jormuntide",
     "wiki": "https://palworld.fandom.com/wiki/Jormuntide",
     "types": [
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       },
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/8e/Jormuntide_menu.png/",
     "suitability": [
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 4
       }
     ],
@@ -12507,8 +12507,8 @@
     "price": 9320,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/101-day.png",
-      "night": "/public/images/maps/101-night.png"
+      "day": "/images/maps/101-day.png",
+      "night": "/images/maps/101-night.png"
     },
     "breeding": {
       "rank": 310,
@@ -12520,20 +12520,20 @@
   {
     "id": 102,
     "key": "102",
-    "image": "/public/images/paldeck/102.png",
+    "image": "/images/paldeck/102.png",
     "name": "Suzaku",
     "wiki": "https://palworld.fandom.com/wiki/Suzaku",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b4/Suzaku_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 3
       }
     ],
@@ -12624,8 +12624,8 @@
     "price": 9840,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/102-day.png",
-      "night": "/public/images/maps/102-night.png"
+      "day": "/images/maps/102-day.png",
+      "night": "/images/maps/102-night.png"
     },
     "breeding": {
       "rank": 50,
@@ -12637,35 +12637,35 @@
   {
     "id": 103,
     "key": "103",
-    "image": "/public/images/paldeck/103.png",
+    "image": "/images/paldeck/103.png",
     "name": "Grizzbolt",
     "wiki": "https://palworld.fandom.com/wiki/Grizzbolt",
     "types": [
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Grizzbolt_menu.png/",
     "suitability": [
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 3
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -12756,8 +12756,8 @@
     "price": 7720,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/103-day.png",
-      "night": "/public/images/maps/103-night.png"
+      "day": "/images/maps/103-day.png",
+      "night": "/images/maps/103-night.png"
     },
     "breeding": {
       "rank": 200,
@@ -12769,35 +12769,35 @@
   {
     "id": 104,
     "key": "104",
-    "image": "/public/images/paldeck/104.png",
+    "image": "/images/paldeck/104.png",
     "name": "Lyleen",
     "wiki": "https://palworld.fandom.com/wiki/Lyleen",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Lyleen_menu.png/",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 4
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 3
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 3
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -12892,8 +12892,8 @@
     "price": 7160,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/104-day.png",
-      "night": "/public/images/maps/104-night.png"
+      "day": "/images/maps/104-day.png",
+      "night": "/images/maps/104-night.png"
     },
     "breeding": {
       "rank": 250,
@@ -12905,25 +12905,25 @@
   {
     "id": 105,
     "key": "105",
-    "image": "/public/images/paldeck/105.png",
+    "image": "/images/paldeck/105.png",
     "name": "Faleris",
     "wiki": "https://palworld.fandom.com/wiki/Faleris",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/99/Faleris_menu.png/",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -13014,8 +13014,8 @@
     "price": 6720,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/105-day.png",
-      "night": "/public/images/maps/105-night.png"
+      "day": "/images/maps/105-day.png",
+      "night": "/images/maps/105-night.png"
     },
     "breeding": {
       "rank": 370,
@@ -13027,34 +13027,34 @@
   {
     "id": 106,
     "key": "106",
-    "image": "/public/images/paldeck/106.png",
+    "image": "/images/paldeck/106.png",
     "name": "Orserk",
     "wiki": "https://palworld.fandom.com/wiki/Orserk",
     "types": [
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       },
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/6e/Orserk_menu.png/",
     "suitability": [
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 4
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -13145,8 +13145,8 @@
     "price": 8320,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/106-day.png",
-      "night": "/public/images/maps/106-night.png"
+      "day": "/images/maps/106-day.png",
+      "night": "/images/maps/106-night.png"
     },
     "breeding": {
       "rank": 140,
@@ -13158,20 +13158,20 @@
   {
     "id": 107,
     "key": "107",
-    "image": "/public/images/paldeck/107.png",
+    "image": "/images/paldeck/107.png",
     "name": "Shadowbeak",
     "wiki": "https://palworld.fandom.com/wiki/Shadowbeak",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0c/Shadowbeak_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -13262,8 +13262,8 @@
     "price": 9060,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/107-day.png",
-      "night": "/public/images/maps/107-night.png"
+      "day": "/images/maps/107-day.png",
+      "night": "/images/maps/107-night.png"
     },
     "breeding": {
       "rank": 60,
@@ -13275,25 +13275,25 @@
   {
     "id": 108,
     "key": "108",
-    "image": "/public/images/paldeck/108.png",
+    "image": "/images/paldeck/108.png",
     "name": "Paladius",
     "wiki": "https://palworld.fandom.com/wiki/Paladius",
     "types": [
       {
         "name": "neutral",
-        "image": "/public/images/elements/neutral.png"
+        "image": "/images/elements/neutral.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Paladius_menu.png/",
     "suitability": [
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -13384,8 +13384,8 @@
     "price": 8810,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/108-day.png",
-      "night": "/public/images/maps/108-night.png"
+      "day": "/images/maps/108-day.png",
+      "night": "/images/maps/108-night.png"
     },
     "breeding": {
       "rank": 80,
@@ -13397,25 +13397,25 @@
   {
     "id": 109,
     "key": "109",
-    "image": "/public/images/paldeck/109.png",
+    "image": "/images/paldeck/109.png",
     "name": "Necromus",
     "wiki": "https://palworld.fandom.com/wiki/Necromus",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Necromus_menu.png/",
     "suitability": [
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -13506,8 +13506,8 @@
     "price": 8930,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/109-day.png",
-      "night": "/public/images/maps/109-night.png"
+      "day": "/images/maps/109-day.png",
+      "night": "/images/maps/109-night.png"
     },
     "breeding": {
       "rank": 70,
@@ -13519,20 +13519,20 @@
   {
     "id": 110,
     "key": "110",
-    "image": "/public/images/paldeck/110.png",
+    "image": "/images/paldeck/110.png",
     "name": "Frostallion",
     "wiki": "https://palworld.fandom.com/wiki/Frostallion",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/00/Frostallion_menu.png/",
     "suitability": [
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 4
       }
     ],
@@ -13623,8 +13623,8 @@
     "price": 8440,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/110-day.png",
-      "night": "/public/images/maps/110-night.png"
+      "day": "/images/maps/110-day.png",
+      "night": "/images/maps/110-night.png"
     },
     "breeding": {
       "rank": 120,
@@ -13636,20 +13636,20 @@
   {
     "id": 111,
     "key": "111",
-    "image": "/public/images/paldeck/111.png",
+    "image": "/images/paldeck/111.png",
     "name": "Jetragon",
     "wiki": "https://palworld.fandom.com/wiki/Jetragon",
     "types": [
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e5/Jetragon_menu.png/",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 3
       }
     ],
@@ -13740,8 +13740,8 @@
     "price": 8680,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/111-day.png",
-      "night": "/public/images/maps/111-night.png"
+      "day": "/images/maps/111-day.png",
+      "night": "/images/maps/111-night.png"
     },
     "breeding": {
       "rank": 90,
@@ -13753,20 +13753,20 @@
   {
     "id": 112,
     "key": "012B",
-    "image": "/public/images/paldeck/012B.png",
+    "image": "/images/paldeck/012B.png",
     "name": "Jolthog Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Jolthog_Cryst",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/72/Jolthog_Cryst_menu.png",
     "suitability": [
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 1
       }
     ],
@@ -13867,25 +13867,25 @@
   {
     "id": 113,
     "key": "024B",
-    "image": "/public/images/paldeck/024B.png",
+    "image": "/images/paldeck/024B.png",
     "name": "Mau Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Mau_Cryst",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7a/Mau_Cryst_menu.png",
     "suitability": [
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 1
       },
       {
         "type": "farming",
-        "image": "/public/images/works/farming.png",
+        "image": "/images/works/farming.png",
         "level": 1
       }
     ],
@@ -13976,8 +13976,8 @@
     "price": 1010,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/024B-day.png",
-      "night": "/public/images/maps/024B-night.png"
+      "day": "/images/maps/024B-day.png",
+      "night": "/images/maps/024B-night.png"
     },
     "breeding": {
       "rank": 1440,
@@ -13989,30 +13989,30 @@
   {
     "id": 114,
     "key": "031B",
-    "image": "/public/images/paldeck/031B.png",
+    "image": "/images/paldeck/031B.png",
     "name": "Gobfin Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Gobfin_Ignis",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9c/Gobfin_Ignis_menu.png",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       }
     ],
@@ -14103,7 +14103,7 @@
     "price": 1800,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/031B-day.png"
+      "day": "/images/maps/031B-day.png"
     },
     "breeding": {
       "rank": 1100,
@@ -14115,35 +14115,35 @@
   {
     "id": 115,
     "key": "032B",
-    "image": "/public/images/paldeck/032B.png",
+    "image": "/images/paldeck/032B.png",
     "name": "Hangyu Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Hangyu_Cryst",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Hangyu_Cryst_menu.png",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -14234,7 +14234,7 @@
     "price": 1020,
     "size": "xs",
     "maps": {
-      "night": "/public/images/maps/032B-night.png"
+      "night": "/images/maps/032B-night.png"
     },
     "breeding": {
       "rank": 1422,
@@ -14246,35 +14246,35 @@
   {
     "id": 116,
     "key": "033B",
-    "image": "/public/images/paldeck/033B.png",
+    "image": "/images/paldeck/033B.png",
     "name": "Mossanda Lux",
     "wiki": "https://palworld.fandom.com/wiki/Mossanda_Lux",
     "types": [
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/05/Mossanda_Lux_menu.png",
     "suitability": [
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 2
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -14365,8 +14365,8 @@
     "price": 6610,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/033B-day.png",
-      "night": "/public/images/maps/033B-night.png"
+      "day": "/images/maps/033B-day.png",
+      "night": "/images/maps/033B-night.png"
     },
     "breeding": {
       "rank": 390,
@@ -14378,20 +14378,20 @@
   {
     "id": 117,
     "key": "037B",
-    "image": "/public/images/paldeck/037B.png",
+    "image": "/images/paldeck/037B.png",
     "name": "Eikthyrdeer Terra",
     "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer_Terra",
     "types": [
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Eikthyrdeer_Terra_menu.png",
     "suitability": [
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -14482,8 +14482,8 @@
     "price": 2680,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/037B-day.png",
-      "night": "/public/images/maps/037B-night.png"
+      "day": "/images/maps/037B-day.png",
+      "night": "/images/maps/037B-night.png"
     },
     "breeding": {
       "rank": 900,
@@ -14495,30 +14495,30 @@
   {
     "id": 118,
     "key": "040B",
-    "image": "/public/images/paldeck/040B.png",
+    "image": "/images/paldeck/040B.png",
     "name": "Incineram Noct",
     "wiki": "https://palworld.fandom.com/wiki/Incineram_Noct",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Incineram_Noct_menu.png",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -14609,8 +14609,8 @@
     "price": 4870,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/040B-day.png",
-      "night": "/public/images/maps/040B-night.png"
+      "day": "/images/maps/040B-day.png",
+      "night": "/images/maps/040B-night.png"
     },
     "breeding": {
       "rank": 580,
@@ -14622,35 +14622,35 @@
   {
     "id": 119,
     "key": "045B",
-    "image": "/public/images/paldeck/045B.png",
+    "image": "/images/paldeck/045B.png",
     "name": "Leezpunk Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Leezpunk_Ignis",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ea/Leezpunk_Ignis_menu.png",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -14741,8 +14741,8 @@
     "price": 1640,
     "size": "s",
     "maps": {
-      "day": "/public/images/maps/045B-day.png",
-      "night": "/public/images/maps/045B-night.png"
+      "day": "/images/maps/045B-day.png",
+      "night": "/images/maps/045B-night.png"
     },
     "breeding": {
       "rank": 1140,
@@ -14754,44 +14754,44 @@
   {
     "id": 120,
     "key": "048B",
-    "image": "/public/images/paldeck/048B.png",
+    "image": "/images/paldeck/048B.png",
     "name": "Robinquill Terra",
     "wiki": "https://palworld.fandom.com/wiki/Robinquill_Terra",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       },
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/45/Robinquill_Terra_menu.png",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 1
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 2
       }
     ],
@@ -14882,8 +14882,8 @@
     "price": 2150,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/048B-day.png",
-      "night": "/public/images/maps/048B-night.png"
+      "day": "/images/maps/048B-day.png",
+      "night": "/images/maps/048B-night.png"
     },
     "breeding": {
       "rank": 1000,
@@ -14895,29 +14895,29 @@
   {
     "id": 121,
     "key": "058B",
-    "image": "/public/images/paldeck/058B.png",
+    "image": "/images/paldeck/058B.png",
     "name": "Pyrin Noct",
     "wiki": "https://palworld.fandom.com/wiki/Pyrin_Noct",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       },
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2b/Pyrin_Noct_menu.png",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 1
       }
     ],
@@ -15008,7 +15008,7 @@
     "price": 7270,
     "size": "l",
     "maps": {
-      "night": "/public/images/maps/058B-night.png"
+      "night": "/images/maps/058B-night.png"
     },
     "breeding": {
       "rank": 240,
@@ -15020,29 +15020,29 @@
   {
     "id": 122,
     "key": "064B",
-    "image": "/public/images/paldeck/064B.png",
+    "image": "/images/paldeck/064B.png",
     "name": "Dinossom Lux",
     "wiki": "https://palworld.fandom.com/wiki/Dinossom_Lux",
     "types": [
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       },
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c7/Dinossom_Lux_menu.png",
     "suitability": [
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -15133,8 +15133,8 @@
     "price": 3380,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/064B-day.png",
-      "night": "/public/images/maps/064B-night.png"
+      "day": "/images/maps/064B-day.png",
+      "night": "/images/maps/064B-night.png"
     },
     "breeding": {
       "rank": 810,
@@ -15146,20 +15146,20 @@
   {
     "id": 123,
     "key": "065B",
-    "image": "/public/images/paldeck/065B.png",
+    "image": "/images/paldeck/065B.png",
     "name": "Surfent Terra",
     "wiki": "https://palworld.fandom.com/wiki/Surfent_Terra",
     "types": [
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/ff/Surfent_Terra_menu.png",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       }
     ],
@@ -15250,8 +15250,8 @@
     "price": 5140,
     "size": "m",
     "maps": {
-      "day": "/public/images/maps/065B-day.png",
-      "night": "/public/images/maps/065B-night.png"
+      "day": "/images/maps/065B-day.png",
+      "night": "/images/maps/065B-night.png"
     },
     "breeding": {
       "rank": 550,
@@ -15263,29 +15263,29 @@
   {
     "id": 124,
     "key": "071B",
-    "image": "/public/images/paldeck/071B.png",
+    "image": "/images/paldeck/071B.png",
     "name": "Vanwyrm Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Vanwyrm_Cryst",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       },
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/19/Vanwyrm_Cryst_menu.png",
     "suitability": [
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 2
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 3
       }
     ],
@@ -15376,7 +15376,7 @@
     "price": 4610,
     "size": "l",
     "maps": {
-      "night": "/public/images/maps/071B-night.png"
+      "night": "/images/maps/071B-night.png"
     },
     "breeding": {
       "rank": 620,
@@ -15388,29 +15388,29 @@
   {
     "id": 125,
     "key": "080B",
-    "image": "/public/images/paldeck/080B.png",
+    "image": "/images/paldeck/080B.png",
     "name": "Elphidran Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Elphidran_Aqua",
     "types": [
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       },
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Elphidran_Aqua_menu.png",
     "suitability": [
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 3
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -15511,20 +15511,20 @@
   {
     "id": 126,
     "key": "081B",
-    "image": "/public/images/paldeck/081B.png",
+    "image": "/images/paldeck/081B.png",
     "name": "Kelpsea Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Kelpsea_Ignis",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/ba/Kelpsea_Ignis_menu.png",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 1
       }
     ],
@@ -15615,8 +15615,8 @@
     "price": 1240,
     "size": "xs",
     "maps": {
-      "day": "/public/images/maps/081B-day.png",
-      "night": "/public/images/maps/081B-night.png"
+      "day": "/images/maps/081B-day.png",
+      "night": "/images/maps/081B-night.png"
     },
     "breeding": {
       "rank": 1270,
@@ -15628,29 +15628,29 @@
   {
     "id": 127,
     "key": "084B",
-    "image": "/public/images/paldeck/084B.png",
+    "image": "/images/paldeck/084B.png",
     "name": "Blazehowl Noct",
     "wiki": "https://palworld.fandom.com/wiki/Blazehowl_Noct",
     "types": [
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       },
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5d/Blazehowl_Noct_menu.png",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 3
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       }
     ],
@@ -15741,7 +15741,7 @@
     "price": 4360,
     "size": "l",
     "maps": {
-      "night": "/public/images/maps/084B-night.png"
+      "night": "/images/maps/084B-night.png"
     },
     "breeding": {
       "rank": 670,
@@ -15753,29 +15753,29 @@
   {
     "id": 128,
     "key": "085B",
-    "image": "/public/images/paldeck/085B.png",
+    "image": "/images/paldeck/085B.png",
     "name": "Relaxaurus Lux",
     "wiki": "https://palworld.fandom.com/wiki/Relaxaurus_Lux",
     "types": [
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       },
       {
         "name": "electric",
-        "image": "/public/images/elements/electric.png"
+        "image": "/images/elements/electric.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Relaxaurus_Lux_menu.png",
     "suitability": [
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 1
       },
       {
         "type": "generating_electricity",
-        "image": "/public/images/works/generating_electricity.png",
+        "image": "/images/works/generating_electricity.png",
         "level": 3
       }
     ],
@@ -15876,24 +15876,24 @@
   {
     "id": 129,
     "key": "086B",
-    "image": "/public/images/paldeck/086B.png",
+    "image": "/images/paldeck/086B.png",
     "name": "Broncherry Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Broncherry_Aqua",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       },
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Broncherry_Aqua_menu.png",
     "suitability": [
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 3
       }
     ],
@@ -15984,8 +15984,8 @@
     "price": 3110,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/086B-day.png",
-      "night": "/public/images/maps/086B-night.png"
+      "day": "/images/maps/086B-day.png",
+      "night": "/images/maps/086B-night.png"
     },
     "breeding": {
       "rank": 840,
@@ -15997,29 +15997,29 @@
   {
     "id": 130,
     "key": "088B",
-    "image": "/public/images/paldeck/088B.png",
+    "image": "/images/paldeck/088B.png",
     "name": "Reptyro Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Reptyro_Cryst",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       },
       {
         "name": "ground",
-        "image": "/public/images/elements/ground.png"
+        "image": "/images/elements/ground.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Reptyro_Cryst_menu.png",
     "suitability": [
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 3
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 3
       }
     ],
@@ -16120,25 +16120,25 @@
   {
     "id": 131,
     "key": "089B",
-    "image": "/public/images/paldeck/089B.png",
+    "image": "/images/paldeck/089B.png",
     "name": "Kingpaca Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Kingpaca_Cryst",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Kingpaca_Cryst_menu.png",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 1
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 3
       }
     ],
@@ -16229,8 +16229,8 @@
     "price": 6100,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/089B-day.png",
-      "night": "/public/images/maps/089B-night.png"
+      "day": "/images/maps/089B-day.png",
+      "night": "/images/maps/089B-night.png"
     },
     "breeding": {
       "rank": 440,
@@ -16242,30 +16242,30 @@
   {
     "id": 132,
     "key": "090B",
-    "image": "/public/images/paldeck/090B.png",
+    "image": "/images/paldeck/090B.png",
     "name": "Mammorest Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Mammorest_Cryst",
     "types": [
       {
         "name": "ice",
-        "image": "/public/images/elements/ice.png"
+        "image": "/images/elements/ice.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Mammorest_Cryst_menu.png",
     "suitability": [
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 2
       },
       {
         "type": "mining",
-        "image": "/public/images/works/mining.png",
+        "image": "/images/works/mining.png",
         "level": 2
       },
       {
         "type": "cooling",
-        "image": "/public/images/works/cooling.png",
+        "image": "/images/works/cooling.png",
         "level": 2
       }
     ],
@@ -16356,8 +16356,8 @@
     "price": 9580,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/090B-day.png",
-      "night": "/public/images/maps/090B-night.png"
+      "day": "/images/maps/090B-day.png",
+      "night": "/images/maps/090B-night.png"
     },
     "breeding": {
       "rank": 290,
@@ -16369,35 +16369,35 @@
   {
     "id": 133,
     "key": "091B",
-    "image": "/public/images/paldeck/091B.png",
+    "image": "/images/paldeck/091B.png",
     "name": "Wumpo Botan",
     "wiki": "https://palworld.fandom.com/wiki/Wumpo_Botan",
     "types": [
       {
         "name": "grass",
-        "image": "/public/images/elements/grass.png"
+        "image": "/images/elements/grass.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/68/Wumpo_Botan_menu.png",
     "suitability": [
       {
         "type": "planting",
-        "image": "/public/images/works/planting.png",
+        "image": "/images/works/planting.png",
         "level": 1
       },
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 2
       },
       {
         "type": "lumbering",
-        "image": "/public/images/works/lumbering.png",
+        "image": "/images/works/lumbering.png",
         "level": 3
       },
       {
         "type": "transporting",
-        "image": "/public/images/works/transporting.png",
+        "image": "/images/works/transporting.png",
         "level": 4
       }
     ],
@@ -16488,8 +16488,8 @@
     "price": 5700,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/091B-day.png",
-      "night": "/public/images/maps/091B-night.png"
+      "day": "/images/maps/091B-day.png",
+      "night": "/images/maps/091B-night.png"
     },
     "breeding": {
       "rank": 480,
@@ -16501,24 +16501,24 @@
   {
     "id": 134,
     "key": "101B",
-    "image": "/public/images/paldeck/101B.png",
+    "image": "/images/paldeck/101B.png",
     "name": "Jormuntide Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Jormuntide_Ignis",
     "types": [
       {
         "name": "dragon",
-        "image": "/public/images/elements/dragon.png"
+        "image": "/images/elements/dragon.png"
       },
       {
         "name": "fire",
-        "image": "/public/images/elements/fire.png"
+        "image": "/images/elements/fire.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0d/Jormuntide_Ignis_menu.png",
     "suitability": [
       {
         "type": "kindling",
-        "image": "/public/images/works/kindling.png",
+        "image": "/images/works/kindling.png",
         "level": 4
       }
     ],
@@ -16609,8 +16609,8 @@
     "price": 9500,
     "size": "xl",
     "maps": {
-      "day": "/public/images/maps/101B-day.png",
-      "night": "/public/images/maps/101B-night.png"
+      "day": "/images/maps/101B-day.png",
+      "night": "/images/maps/101B-night.png"
     },
     "breeding": {
       "rank": 315,
@@ -16622,20 +16622,20 @@
   {
     "id": 135,
     "key": "102B",
-    "image": "/public/images/paldeck/102B.png",
+    "image": "/images/paldeck/102B.png",
     "name": "Suzaku Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Suzaku_Aqua",
     "types": [
       {
         "name": "water",
-        "image": "/public/images/elements/water.png"
+        "image": "/images/elements/water.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a1/Suzaku_Aqua_menu.png",
     "suitability": [
       {
         "type": "watering",
-        "image": "/public/images/works/watering.png",
+        "image": "/images/works/watering.png",
         "level": 3
       }
     ],
@@ -16736,30 +16736,30 @@
   {
     "id": 136,
     "key": "104B",
-    "image": "/public/images/paldeck/104B.png",
+    "image": "/images/paldeck/104B.png",
     "name": "Lyleen Noct",
     "wiki": "https://palworld.fandom.com/wiki/Lyleen_Noct",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/30/Lyleen_Noct_menu.png",
     "suitability": [
       {
         "type": "handiwork",
-        "image": "/public/images/works/handiwork.png",
+        "image": "/images/works/handiwork.png",
         "level": 3
       },
       {
         "type": "medicine_production",
-        "image": "/public/images/works/medicine_production.png",
+        "image": "/images/works/medicine_production.png",
         "level": 3
       },
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 2
       }
     ],
@@ -16854,8 +16854,8 @@
     "price": 7610,
     "size": "l",
     "maps": {
-      "day": "/public/images/maps/104B-day.png",
-      "night": "/public/images/maps/104B-night.png"
+      "day": "/images/maps/104B-day.png",
+      "night": "/images/maps/104B-night.png"
     },
     "breeding": {
       "rank": 210,
@@ -16867,20 +16867,20 @@
   {
     "id": 137,
     "key": "110B",
-    "image": "/public/images/paldeck/110B.png",
+    "image": "/images/paldeck/110B.png",
     "name": "Frostallion Noct",
     "wiki": "https://palworld.fandom.com/wiki/Frostallion_Noct",
     "types": [
       {
         "name": "dark",
-        "image": "/public/images/elements/dark.png"
+        "image": "/images/elements/dark.png"
       }
     ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/14/Frostallion_Noct_menu.png",
     "suitability": [
       {
         "type": "gathering",
-        "image": "/public/images/works/gathering.png",
+        "image": "/images/works/gathering.png",
         "level": 4
       }
     ],

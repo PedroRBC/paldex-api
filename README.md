@@ -131,9 +131,10 @@ Current features:
 
 ### Available Endpoints
 
-- `GET /` - Get all pals
-- `GET /:id` - Get pal by ID
-- `GET /search/:name` - Search pals by name
+- `GET /` - Get API information
+- `GET /api` - Get all pals
+- `GET /api/:id` - Get pal by ID
+- `GET /api/search/:name` - Search pals by name
 
 ### Query Parameters
 

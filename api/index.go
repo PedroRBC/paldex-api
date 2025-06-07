@@ -21,7 +21,7 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 	// Get all pals
 	server.GET("/api", func(context *vercel.Context) {
 		context.JSON(200, vercel.H{
-			"pals": pkg.Pals,
+			"content": pkg.Pals,
 		})
 	})
 
@@ -39,7 +39,7 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 		for _, pal := range pkg.Pals {
 			if pal.ID == id {
 				context.JSON(200, vercel.H{
-					"pal": pal,
+					"content": pal,
 				})
 				return
 			}
@@ -63,7 +63,7 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 
 		if len(results) > 0 {
 			context.JSON(200, vercel.H{
-				"pals": results,
+				"content": results,
 			})
 		} else {
 			context.JSON(404, vercel.H{

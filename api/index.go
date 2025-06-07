@@ -11,15 +11,22 @@ import (
 func Handler(w http.ResponseWriter, r *http.Request) {
 	server := vercel.New()
 
-	// Get all pals
 	server.GET("/", func(context *vercel.Context) {
+		context.JSON(200, vercel.H{
+			"message": "Paldex API",
+			"version": "1.0.0",
+		})
+	})
+
+	// Get all pals
+	server.GET("/api", func(context *vercel.Context) {
 		context.JSON(200, vercel.H{
 			"pals": pkg.Pals,
 		})
 	})
 
 	// Get pal by ID
-	server.GET("/:id", func(context *vercel.Context) {
+	server.GET("/api/:id", func(context *vercel.Context) {
 		idStr := context.Param("id")
 		id, err := strconv.Atoi(idStr)
 		if err != nil {
@@ -44,7 +51,7 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 	})
 
 	// Search pals by name
-	server.GET("/search/:name", func(context *vercel.Context) {
+	server.GET("/api/search/:name", func(context *vercel.Context) {
 		name := context.Param("name")
 		var results []pkg.Pal
 
